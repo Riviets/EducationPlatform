@@ -1,5 +1,5 @@
 <h1>Education Platform</h1>
-go to functionality to master branch
+go to functionality to <strong>master branch</strong>
 
 <h2>Overview</h2>
 
